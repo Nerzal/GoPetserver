@@ -15,11 +15,12 @@ Repository to learn golang using a petserver
 
 ### Keywords
 **const**
-
+```go
 const {
 	PI = 3 //Yes i did!
 	Language = "Go"
 }
+```
  
 ## Commands
  - go run <path>
