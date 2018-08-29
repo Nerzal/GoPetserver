@@ -12,14 +12,22 @@ Repository to learn golang using a petserver
  - Go erzwingt Egypt-Style Klammern
  - https://golang.org
  - IDE VSCode / Goland
+
+### Keywords
+**const**
+
+const {
+	PI = 3 //Yes i did!
+	Language = "Go"
+}
  
 ## Commands
  - go run <path>
-  - runs the program
+ 	- runs the program
  - go build <path>
-  - builds the program
+ 	- builds the program
  - go install <path>
-  - copies an executable to the bin path
+ 	- copies an executable to the bin path
 
 ## Visibility
    - lowercase = Only visible inside same package
@@ -58,4 +66,4 @@ Repository to learn golang using a petserver
  - Map
  	- Like a dictionary
  - Channel
-  - Used for communication between goroutines
+ 	- Used for communication between goroutines
