@@ -12,6 +12,15 @@ Repository to learn golang using a petserver
  - Go erzwingt Egypt-Style Klammern
  - https://golang.org
  - IDE VSCode / Goland
+ 
+## Commands
+ - go run <path>
+  - runs the program
+ - go build <path>
+  - builds the program
+ - go install <path>
+  - copies an executable to the bin path
+
 ## Visibility
    - lowercase = Only visible inside same package
    - uppercase = Visible outside package
