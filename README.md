@@ -56,4 +56,4 @@ Repository to learn golang using a petserver
  - Map
  	- Like a dictionary
  - Channel
- 	- Used for communication between goroutines
+  - Used for communication between goroutines
