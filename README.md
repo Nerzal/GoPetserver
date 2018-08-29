@@ -6,6 +6,7 @@ Repository to learn golang using a petserver
 ## General
  - Composition over inheritance
  	- There is no inheritance
+ - *There are no Classes!*
  - No Method Overloading
  	- Each Method is unique
  - Go erzwingt Egypt-Style Klammern
