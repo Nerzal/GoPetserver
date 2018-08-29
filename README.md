@@ -29,10 +29,12 @@ Repository to learn golang using a petserver
  - Similar to namespaces
  - Import
  	- Imports Packages
- 		- Local
+ 	 - Local
  		- Remote (github repo)
  		- SourceCode
+   
 ## Types
+
 ### Basic
  - int
  - bool
