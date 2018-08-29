@@ -68,3 +68,20 @@ const {
  	- Like a dictionary
  - Channel
  	- Used for communication between goroutines
+
+# Go Functions
+ - Go functions can have multiple return values.
+ - Can be used like a type.
+ - Support function literals
+ 	- You can write functions inside another function.
+ 	- Runs in context of parent function
+
+```go
+func MakeNoise(noise string){
+	fmt.PrintLn(noise);
+}
+```
+
+# Useful links
+## Go Language Spec 
+https://golang.org/ref/spec
