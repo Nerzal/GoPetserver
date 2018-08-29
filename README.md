@@ -13,8 +13,8 @@ Repository to learn golang using a petserver
  - https://golang.org
  - IDE VSCode / Goland
 ## Visibility
-   - lowercase = private
-   - uppercase = public
+   - lowercase = Only visible inside same package
+   - uppercase = Visible outside package
 
 ## Packages
  - Similar to namespaces
